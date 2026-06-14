@@ -1,0 +1,371 @@
+{
+    "status": {
+        "code": 200,
+        "message": "OK",
+        "error": 0,
+        "error_messages": []
+    },
+    "data": [
+        {
+            "products": [
+                {
+                    "product_id": "79573",
+                    "sku": "FW24-00000294",
+                    "name": "V NECK KNIT TOP",
+                    "special": "0",
+                    "price": "169",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "A stylish sleeveless top with a V-neck opening and decorative button line. Pair it with a matching skirt for a coordinated look.",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "169",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "80140",
+                    "sku": "FA24-R0000245",
+                    "name": "PRINTED RUSHED DRESS",
+                    "special": "0",
+                    "price": "399",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "Fitted cut design with rushed detail at the front and flare hem, featuring an overlay print. Round neckline with a mid-back zip",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "399",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79509",
+                    "sku": "FW24-00000080",
+                    "name": "LEAVES PATTERN VELVET TOP ",
+                    "special": "0",
+                    "price": "269",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "This velvet top features a unique leaves pattern with laser-cut details. The bonded velvet effect adds texture, while the mid-back zipper ensures a sleek finish. Match is with similar skirt",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "269",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79555",
+                    "sku": "FW24-00000173",
+                    "name": "PLEATED KNIT DRESS",
+                    "special": "0",
+                    "price": "449",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "A midi dress with a pleated knit pattern, featuring flared long sleeves and a round neckline. Accentuated with a contrast knitted tie belt at the waist, this dress is fully lined for added comfort.",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "449",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79534",
+                    "sku": "FW24-00000140",
+                    "name": "BOW APPLIQU\u00e9 DRESS",
+                    "special": "0",
+                    "price": "499",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "This chic dress features a boat neckline and a fitted cut adorned with contrast bow appliqu\u00e9s. A side pocket adds practicality, while a gold metallic zipper at the center back completes the elegant design.",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "499",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79531",
+                    "sku": "FW24-00000136",
+                    "name": "PEARL EMBELLISHMENT DRESS",
+                    "special": "0",
+                    "price": "399",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "This sleeveless dress with a rounded neckline features elegant pearl embellishments at the front",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "399",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79527",
+                    "sku": "FW24-00000127",
+                    "name": "CAPE PRINTED TOP",
+                    "special": "0",
+                    "price": "269",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "This stylish top features a high neckline with a tie detail at the back, a placement print, and a tank top lining layered with an elegant organza cape. Pair it with a matching skirt for a complete look.",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "269",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79528",
+                    "sku": "FW24-00000128",
+                    "name": "ROSE PRINTS SKIRT",
+                    "special": "0",
+                    "price": "249",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "This chic high-waist skirt features a side zip and a side slit for added elegance, with a striking placement print. Pair it with a matching top for a stylish outfit.",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "249",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79536",
+                    "sku": "FW24-00000145",
+                    "name": "ONE SHOULDER DRAPE DRESS",
+                    "special": "0",
+                    "price": "449",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "This elegant one-shoulder dress features an asymmetric length with a graceful drape effect. A side invisible zipper ensures a perfect fit.",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "449",
+                    "base_currency_special_price": "0"
+                },
+                {
+                    "product_id": "79553",
+                    "sku": "FW24-00000169",
+                    "name": "RUFFLED HEM DRESS",
+                    "special": "0",
+                    "price": "469",
+                    "product_type": "configurable",
+                    "status": "1",
+                    "thumbnail_url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg",
+                    "images": [
+                        {
+                            "url": "https:\/\/mcstaging.femi9.com\/static\/version1767765226\/webapi_rest\/_view\/en_US\/Magento_Catalog\/images\/product\/placeholder\/.jpg"
+                        }
+                    ],
+                    "currency": "SAR",
+                    "manufacturer": false,
+                    "discount_percentage": "",
+                    "quantity": 0,
+                    "rating": "",
+                    "minimum": "",
+                    "maximum": "",
+                    "description": "This dress features satin straps with bow appliqu\u00e9 and a square neckline. The fitted cut flows into a flared hem, finished with a multi-layered ruffle at the bottom for added volume and elegance.",
+                    "is_buy_this_look": 0,
+                    "is_related_products": 1,
+                    "is_new": false,
+                    "is_exclusive": null,
+                    "is_bestseller": false,
+                    "label": [],
+                    "show_label": false,
+                    "insider_category_id": "",
+                    "insider_category_label": "",
+                    "base_currency": "SAR",
+                    "base_currency_price": "469",
+                    "base_currency_special_price": "0"
+                }
+            ],
+            "total": 10,
+            "products_total": 201,
+            "number_of_pages": 1,
+            "has_more": true,
+            "current": {
+                "sort": "position-ASC"
+            }
+        }
+    ]
+}
