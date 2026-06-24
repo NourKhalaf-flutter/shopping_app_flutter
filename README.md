@@ -45,9 +45,10 @@ lib/
  
 ---
  
- ## 📸 Screenshots
+## 🎥 Demo Video
 
-> Add your app screenshots here
+Watch the demo here:
+[https://youtu.be/your-video-link](https://youtube.com/shorts/gAQ3jQg3B1M)
 
  
 
