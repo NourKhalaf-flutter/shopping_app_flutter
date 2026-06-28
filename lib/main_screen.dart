@@ -24,11 +24,14 @@ class _MainScreenState extends State<MainScreen> {
     WishlistScreen(),
     ProfileScreen(),
   ];
+
   final _titleList = <String>['', '', 'Order', 'Wishlist', 'My Profile'];
   int _selectedIndex =0;
+
   void _onNavTapped(int index) {
     setState(() => _selectedIndex = index);
   }
+  
  @override
   void initState() {
      super.initState();

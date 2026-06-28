@@ -3,8 +3,8 @@ import 'package:first/features/arrivals/arrivals.dart';
 import 'package:first/features/details/description_screen.dart';
 import 'package:first/features/details/details_screen.dart';
 import 'package:first/features/home/home_screen.dart';
-import 'package:first/features/login/forgot_password.dart';
-import 'package:first/features/login/login_screen.dart';
+import 'package:first/features/auth/forgot_password_screen.dart';
+import 'package:first/features/auth/login_screen.dart';
 import 'package:first/main_screen.dart';
 import 'package:first/core/routes/route_names.dart';
 import 'package:first/features/products/product_model.dart';
@@ -59,7 +59,7 @@ class AppRouter {
     }
   }
 
-  // Helper method لبناء الـ Route مع animation
+  // Helper method لبناء الـ Route  
 
   static MaterialPageRoute<T> _buildRoute<T>(
     Widget page,
@@ -68,9 +68,7 @@ class AppRouter {
     return MaterialPageRoute<T>(builder: (_) => page, settings: settings);
   }
 
-  // Alternative: Fade transition
-
-  // Alternative: Slide transition
+ 
 }
 
 // صفحة للـ routes غير الموجودة

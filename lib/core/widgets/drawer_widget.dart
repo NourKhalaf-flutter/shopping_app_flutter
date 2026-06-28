@@ -2,7 +2,7 @@ import 'package:first/core/constants/app_images.dart';
 import 'package:first/core/routes/route_names.dart';
 import 'package:first/core/constants/app_colors.dart';
 import 'package:first/core/constants/app_text_styles.dart';
-import 'package:first/features/login/auth_provider.dart';
+import 'package:first/features/auth/auth_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:provider/provider.dart';

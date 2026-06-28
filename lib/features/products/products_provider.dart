@@ -25,12 +25,14 @@ class ProductsProvider extends ChangeNotifier {
   int _currentPage = 1;
   bool _hasMore = true;
 
+  //for best sellers , without pagination
   Future<void> getProducts() async {
     try {
-        _resetState();
+      _resetState();
       _setLoading(true, true);
+      //set  13 to show the products I need to show when create demo
       final page = await repository.products(page: 13);
-      _bestProducts.addAll(page.products );
+      _bestProducts.addAll(page.products);
     } on Failure catch (e) {
       log('provider error1');
       errorMessage = e.message;
@@ -40,11 +42,10 @@ class ProductsProvider extends ChangeNotifier {
       errorMessage = 'Something went wrong';
     } finally {
       _setLoading(true, false);
-     }
+    }
   }
 
-  // ===== Public API =====
-
+  //for all products , with Pagination
   Future<void> loadInitialProducts() async {
     _resetState();
     await _fetchProducts(isInitial: true);
@@ -55,15 +56,12 @@ class ProductsProvider extends ChangeNotifier {
     await _fetchProducts(isInitial: false);
   }
 
-  // ===== Core Logic =====
-
   Future<void> _fetchProducts({required bool isInitial}) async {
     try {
       _setLoading(isInitial, true);
       final page = await repository.products(page: _currentPage);
       _products.addAll(page.products);
 
-      
       _hasMore = page.hasMore;
       _currentPage++;
 

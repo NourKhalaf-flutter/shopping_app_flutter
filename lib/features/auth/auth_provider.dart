@@ -1,6 +1,6 @@
 import 'package:first/core/error/failures.dart';
 import 'package:first/core/services/app_preferences.dart';
-import 'package:first/features/login/auth_repository.dart';
+import 'package:first/features/auth/auth_repository.dart';
 import 'package:flutter/material.dart';
 
 class AuthProvider extends ChangeNotifier {

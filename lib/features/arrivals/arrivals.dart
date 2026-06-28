@@ -28,7 +28,7 @@ class _ArrivalsScreenState extends State<ArrivalsScreen> {
     'Customer Rating',
     'Most Popular',
   ];
-  final ScrollController _scrollController = ScrollController();
+  final ScrollController  _scrollController = ScrollController();
 
   @override
   void initState() {

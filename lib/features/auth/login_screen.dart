@@ -6,7 +6,7 @@ import 'package:first/core/constants/app_text_styles.dart';
 import 'package:first/core/utils/validators.dart';
 import 'package:first/core/widgets/button_widget.dart';
 import 'package:first/core/widgets/text_form_field.dart';
-import 'package:first/features/login/auth_provider.dart';
+import 'package:first/features/auth/auth_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -149,6 +149,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                     final password = _passwordController.text;
 
                                     await authProvider.login(email, password);
+                                    
                                     if (authProvider.isLoggedIn) {
                                       NotificationService().showNotification(
                                         title: 'Success Login',
@@ -158,6 +159,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                       Navigator.pushNamedAndRemoveUntil(
                                         context,
                                         RouteNames.mainScreen,
+
                                         (route) => false,
                                       );
                                     } else if (authProvider.errorMessage !=

@@ -1,7 +1,7 @@
 import 'package:first/core/error/failures.dart';
 import 'package:first/core/network/response_wrapper.dart';
 import 'package:first/core/services/app_preferences.dart';
-import 'package:first/features/login/auth_remote_data_source.dart';
+import 'package:first/features/auth/auth_remote_data_source.dart';
 
 abstract class AuthRepository {
   Future<ResponseWrapper<dynamic>> login(String email, String password);

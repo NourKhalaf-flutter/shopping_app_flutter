@@ -6,7 +6,7 @@ import 'package:first/core/routes/route_names.dart';
 import 'package:first/core/constants/app_colors.dart';
 import 'package:first/features/details/product_details_provider.dart';
 import 'package:first/features/details/related_products_provider.dart';
-import 'package:first/features/login/auth_provider.dart';
+import 'package:first/features/auth/auth_provider.dart';
 import 'package:first/features/products/products_provider.dart';
 import 'package:flutter/material.dart';
  import 'package:google_fonts/google_fonts.dart';
