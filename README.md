@@ -29,18 +29,28 @@ The app integrates APIs, supports pagination, and uses dependency injection for 
 
 ## 🏗️ Architecture
 
-The project follows **Feature-Based Clean Architecture**:
+## 🏗️ Architecture
+
+The project follows a **Feature-Based Architecture** with the **Repository Pattern**.
 
 ```text
 lib/
- ├── core/              # Shared logic (network, utils, constants)
- ├── features/         # App features (auth, home, cart, etc.)
- │    ├── auth/
- │    ├── home/
- │    ├── products/
- │    ├── cart/
- ├── main.dart
+├── config/
+├── core/                 # Shared utilities, networking, routing, constants
+├── features/
+│   ├── auth/
+│   │   ├── auth_provider.dart
+│   │   ├── auth_repository.dart
+│   │   ├── auth_remote_data_source.dart
+│   │   ├── login_screen.dart
+│   │   └── forgot_password_screen.dart
+│   ├── home/
+│   ├── products/
+│   └── cart/
+├── main_screen.dart
+└── main.dart
 ```
+ 
 
  
 ---
