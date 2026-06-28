@@ -44,8 +44,7 @@ lib/
 │   │   ├── auth_provider.dart
 │   │   ├── auth_repository.dart
 │   │   ├── auth_remote_data_source.dart
-│   │   ├── login_screen.dart
-│   │   └── forgot_password_screen.dart
+│   │   └── login_screen.dart
 │   ├── home/
 │   ├── products/
 │   └── cart/
