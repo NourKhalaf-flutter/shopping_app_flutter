@@ -14,7 +14,7 @@ The app integrates APIs, supports pagination, and uses dependency injection for 
 
 ##  Features
 
-*  Clean Architecture (Separation of concerns)
+*  Feature-Based Architecture with Repository Pattern
 *  REST API Integration using Dio
 *  Dependency Injection (GetIt)
 *  Pagination for product lists
@@ -24,6 +24,8 @@ The app integrates APIs, supports pagination, and uses dependency injection for 
 *  Reusable components
 *  Network layer abstraction
 *  Scalable project structure
+*  SQLite-based local storage for cart with full CRUD operations
+*  SharedPreferences for lightweight local storage
 
 ---
 
