@@ -66,18 +66,15 @@ Watch the demo here:
 
 <p align="center">
 
-  <img src="assets/screenshots/splashScreen.png" width="300"/>
-
-  <img src="assets/screenshots/onBoardingScreen1.png" width="300"/>
+ 
   
   <img src="assets/screenshots/loginScreen.png" width="300"/>
  
+  <img src="assets/screenshots/homeScreen.png" width="300"/>
+  
 </p>
 
- 
 <p align="center">
-
-  <img src="assets/screenshots/homeScreen.png" width="300"/>
 
   <img src="assets/screenshots/homeScreen2.png" width="300"/>
   
@@ -91,14 +88,16 @@ Watch the demo here:
   <img src="assets/screenshots/productDetailsScreen.png" width="300"/>
   
   <img src="assets/screenshots/productDetailsScreen2.png" width="300"/>
-  
-  <img src="assets/screenshots/cartScreen.png" width="300"/>
  
 </p>
 
 </p>
  <p align="center">
-
+  <img src="assets/screenshots/productDetailsScreen5.png" width="300"/>
+  
+  <img src="assets/screenshots/cartScreen.png" width="300"/>
+ </p>
+ <p align="center">
   <img src="assets/screenshots/profileScreen.png" width="300"/>
   
   <img src="assets/screenshots/drawer.png" width="300"/>
