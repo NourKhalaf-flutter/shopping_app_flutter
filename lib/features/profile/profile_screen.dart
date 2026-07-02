@@ -25,12 +25,12 @@ class ProfileScreen extends StatelessWidget {
               minLeadingWidth: 60,
 
               title: Text(
-               auth.name ?? '',
+               auth.name ?? 'Nour Khalaf',
                
                 style: AppTextStyles.font14MainInter600,
               ),
               subtitle: Text(
-               auth.email ?? '',
+               auth.email ?? 'nour.khalaf@gmail.com',
                
                 style: AppTextStyles.font14SecondSans,
               ),

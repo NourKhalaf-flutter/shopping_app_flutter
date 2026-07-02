@@ -176,18 +176,18 @@ Widget item(CartModel cartModel, String id) {
               child: CachedNetworkImage(
                 imageUrl: cartModel.image,
                 placeholder: (context, url) => Container(
-                  width:100,
+                  width:60,
                   height: 100,
                   color: AppColors.placeholderColor,
                 ),
 
                 errorWidget: (context, url, error) => Container(
-                  width:100,
+                  width:60,
                   height: 100,
                   color: AppColors.placeholderColor,
                 ),
 
-                width: 100,
+                width: 60,
                 height: 100,
 
                 fit: BoxFit.cover,

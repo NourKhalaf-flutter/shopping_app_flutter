@@ -40,12 +40,12 @@ class DrawerWidget extends StatelessWidget {
                   minLeadingWidth: 60,
 
                   title: Text(
-                     auth.name ?? '',
+                     auth.name ?? 'Nour Khalaf',
                     
                     style: AppTextStyles.font14MainSans600,
                   ),
                   subtitle: Text(
-                    auth.email ?? '',
+                    auth.email ?? 'nour.khalaf@gmail.com',
                  
                     style: AppTextStyles.font14SecondSans,
                   ),
@@ -53,7 +53,7 @@ class DrawerWidget extends StatelessWidget {
                     radius: 30,
                     backgroundColor: AppColors.greylight,
                     child: Text(
-                    auth.name?[0].toUpperCase() ?? 'U',
+                    auth.name?[0].toUpperCase() ?? 'N',
                   
                       style: AppTextStyles.font18MainInter500,
                     ),
