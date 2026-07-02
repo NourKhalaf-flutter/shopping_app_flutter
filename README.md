@@ -31,8 +31,6 @@ The app integrates APIs, supports pagination, and uses dependency injection for 
 
 ## 🏗️ Architecture
 
-## 🏗️ Architecture
-
 The project follows a **Feature-Based Architecture** with the **Repository Pattern**.
 
 ```text
@@ -64,7 +62,25 @@ Watch the demo here:
  
 
 ---
+## 📸 Screenshots
 
+<p align="center">
+
+  <img src="assets/screenshots/splashScreen.png" width="220"/>
+
+  <img src="assets/screenshots/onBoardingScreen1.png" width="220"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="assets/screenshots/loginScreen.png" width="220"/>
+
+  <img src="assets/screenshots/homeScreen.png" width="220"/>
+
+</p>
  
 
 ## 👩‍💻 Author
